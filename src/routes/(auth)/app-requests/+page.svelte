@@ -3,7 +3,7 @@
 </script>
 
 <svelte:head>
-  <title>{$_('sign-in.header-title')}</title>
+  <title>{$_('app-requests.header-title')}</title>
 </svelte:head>
 
-<h1>Sign In</h1>
+<h1>App Requests</h1>

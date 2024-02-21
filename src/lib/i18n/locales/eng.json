@@ -1,0 +1,49 @@
+{
+  "app-requests": {
+    "header-title": "Application Requests"
+  },
+  "apps": {
+    "header-title": "Applications"
+  },
+  "common": {
+    "locales": {
+      "eng": "English",
+      "ukr": "Ukrainian"
+    },
+    "countries": {
+      "ukr": "🇺🇦 Ukraine",
+      "usa": "🇺🇸 United States of America",
+      "gbr": "🇬🇧 the United Kingdom of Great Britain and Northern Ireland",
+      "pol": "🇵🇱 Republic of Poland",
+      "deu": "🇩🇪 Federal Republic of Germany",
+      "fra": "🇫🇷 French Republic"
+    },
+    "navigation": {
+      "sign-in": "Sign In",
+      "sign-up": "Sign Up"
+    }
+  },
+  "dashboard": {
+    "header-title": "Dashboard"
+  },
+  "auth": {
+    "sign-in": {
+      "header-title": "Sign In",
+      "email-label": "Email address",
+      "email-placeholder": "Enter email address...",
+      "password-label": "Password",
+      "password-placeholder": "Enter password...",
+      "sign-in-btn": "Login"
+    },
+    "sign-up": {
+      "header-title": "Sign Up",
+      "email-label": "Email address",
+      "email-placeholder": "Enter email address...",
+      "password-label": "Password",
+      "password-placeholder": "Enter password...",
+      "country-label": "Country",
+      "language-label": "Language",
+      "sign-up-btn": "Register"
+    }
+  }
+}
